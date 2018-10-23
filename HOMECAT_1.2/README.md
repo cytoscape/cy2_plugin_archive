@@ -1,0 +1,29 @@
+<a href="HOMECAT_1.2.jar">Download HOMECAT_1.2.jar</a>
+
+* __Plugin Name__
+  * HOMECAT
+* __Version__
+  * 1.2
+* __Description__
+  * A tool for interspecific comparative analysis, to add to an existing network orthologs identifiers and data. Through multiple homology assement sources, the desired specificity and sensitivity in orthology search can be obtained.<br>Input identifiers are automatically converted to query and combine orthology sources results. User can also specify output format for data mapping. 30 species are currently supported.<br> Comparative networks are represented with metanodes containing input and orthologs elements. A specific function allows user-data mapping with graphical metanodes representation.<br>Particular emphasis is given to functional genomic data. More than 70 microarrays formats are supported and data can be directly downloaded from arrayexpress ATLAS service.<br><b>Metanodes and graphical representation require MetaNodes and NodeCharts plugins.</b><br>For the user manual, to download components allowing multiple orthology databases support, and to learn how to easily develop new components, see project website.
+* __Category__
+  * Network generation
+* __License__
+  * http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US
+* __Release Date__
+  * 2013-04-29
+* __Minimum Cytoscape Version__
+  * 2.8.2
+  * 2.8.3
+* __Project URL__
+  * http://www.cbmc.it/~zorzans/homecat/
+* __Source Code URL__
+  * http://www.cbmc.it/~zorzans/homecat/
+* __References__
+  * Zorzan Simone, Lorenzetto Erika, Ettorre Michele, Pontelli Valeria, Laudanna Carlo, and Buffelli Mario
+HOMECAT: consensus homologs mapping for interspecific knowledge transfer and functional genomic data integration.
+Bioinformatics first published online April 24, 2013 doi:10.1093/bioinformatics/btt189
+* __Authors__
+  * Zorzan Simone, CBMC,University of Verona
+* __Contacts__
+  * Simone Zorzan, simone.zorzan@univr.it
